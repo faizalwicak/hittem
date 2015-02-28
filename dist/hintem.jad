@@ -1,0 +1,10 @@
+MIDlet-1: main, , main
+MIDlet-Description: HINTEM FW-Indonesia.blogspot.com
+MIDlet-Icon: FWicon.png
+MIDlet-Jar-Size: 62211
+MIDlet-Jar-URL: hintem.jar
+MIDlet-Name: Hintem
+MIDlet-Vendor: FW-Indonesia.blogspot.com
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
